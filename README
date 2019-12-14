@@ -1,0 +1,5 @@
+Trusted entity – AWS CloudFormation
+
+Permissions – AWSLambdaExecute
+
+Role name – cfn-lambda-pipeline
